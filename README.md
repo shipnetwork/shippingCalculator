@@ -221,3 +221,4 @@ The access token must be then placed in a [repository secret](https://docs.githu
 # savingsCaclulatorBasic
 # savingsCaclulatorBasic
 # savingsCaclulatorBasic
+# ship-savings-calc
